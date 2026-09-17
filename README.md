@@ -1,2 +1,1 @@
-# Calc
-calc for java
+calculator for java
